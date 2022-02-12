@@ -1,7 +1,13 @@
 body {
-    color: #222222;
-    font-size: 1em;
-    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  color: rgb(138 43 226 / 50%);
+  background-color:gray;
+  font-size: 1em;
+  font-family: monospace;
+}
+
+.details p {
+  color:cadetblue;
+  font-family: monospace;
 }
 
 .content-footer,
